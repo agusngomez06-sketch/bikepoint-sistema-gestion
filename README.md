@@ -28,6 +28,9 @@ El sistema permitirá gestionar productos, clientes, ventas y cantidades disponi
 
 Proyecto desarrollado para la asignatura Organización Empresarial de la Universidad Tecnológica Nacional (UTN).
 
+## Registro de cambios
+
+Se incorpora documentación del proyecto para facilitar su comprensión y mantenimiento.
 ## Herramientas utilizadas
 
 - GitHub: plataforma utilizada para alojar el repositorio y gestionar las versiones del proyecto.
