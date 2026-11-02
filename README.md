@@ -27,3 +27,7 @@ El sistema permitirá gestionar productos, clientes, ventas y cantidades disponi
 ## Trabajo Práctico Integrador
 
 Proyecto desarrollado para la asignatura Organización Empresarial de la Universidad Tecnológica Nacional (UTN).
+
+## Registro de cambios
+
+Se incorpora documentación del proyecto para facilitar su comprensión y mantenimiento.
