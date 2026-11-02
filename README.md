@@ -27,3 +27,10 @@ El sistema permitirá gestionar productos, clientes, ventas y cantidades disponi
 ## Trabajo Práctico Integrador
 
 Proyecto desarrollado para la asignatura Organización Empresarial de la Universidad Tecnológica Nacional (UTN).
+
+## Herramientas utilizadas
+
+- GitHub: plataforma utilizada para alojar el repositorio y gestionar las versiones del proyecto.
+- Git: sistema de control de versiones para registrar los cambios realizados.
+- GitHub Projects: herramienta utilizada para organizar y administrar el backlog ágil mediante un tablero de tareas.
+- BPMN.io: herramienta utilizada para modelar gráficamente los procesos del sistema.
